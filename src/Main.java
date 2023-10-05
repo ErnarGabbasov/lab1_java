@@ -2,6 +2,7 @@ import java.util.Scanner; // объект класса Scanner для чтени
 
 public class Main {
     public static void main(String[] args) {
+        //Создаем объект для считывания ввода с клавиатуры, выводим сообщение о выводе текста
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Введите количество строк: ");
